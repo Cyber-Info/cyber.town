@@ -32,7 +32,9 @@ empowering everyone with easy access to cybersecurity education.
 - [Cybersecurity](#cybersecurity)
   - [Discord Communities](#discord-communities)
 
-<!-- Legend Table -->
+<!-- Legend -->
+
+### Legend
 
 | Icon | Description |
 |------|-------------|
