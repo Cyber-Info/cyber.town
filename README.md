@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
+<!--lint ignore awesome-heading-->
 
 # cyber.town
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
